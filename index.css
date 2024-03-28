@@ -1,0 +1,41 @@
+.section-card {
+    background-color: plum;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+}
+
+.section-content {
+    max-width: 800px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+/* Additional styling for navigation links */
+
+.nav-links {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.nav-links li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    position: relative;
+}
+body{
+    background-color: purple;
+}
+h1{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
